@@ -13,7 +13,6 @@ struct Rocks
     public ConsoleColor color;
 }
 
-// Test GitHub update
 
 class FallingRocks
 {
